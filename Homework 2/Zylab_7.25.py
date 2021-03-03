@@ -1,3 +1,5 @@
+# Daniel Hayashi 1763814
+
 def exact_change(user_total):
   dollars = user_total // 100
   user_total %= 100
