@@ -1,3 +1,5 @@
+# Daniel Hayashi 1763814
+
 passwrd=input()
 password=''
 for x in passwrd:
